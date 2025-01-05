@@ -1,0 +1,9 @@
+{
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "e",
+        description: Some("Browser"),
+    ): Spawn("chromium"),
+}
