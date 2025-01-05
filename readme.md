@@ -10,4 +10,4 @@
 - Update `cosmicDots/.config/cosmic/com.system76.CosmicSettings.Wallpaper/v1/custom-images`
     - `$USER` -> your username
 - Copy to ~/:
-    - `cp -rf ~/`
+    - `cp -rf . ~/`
