@@ -11,3 +11,5 @@
     - `$USER` -> your username
 - Copy to ~/:
     - `cp -rf . ~/`
+# Additional information
+- `green_sea.jpg` source repo: https://github.com/mylinuxforwork/wallpaper
